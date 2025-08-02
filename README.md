@@ -79,17 +79,17 @@ You improve your prompt step-by-step based on what the AI responds with.
            Prompt → Response → Refine → New Prompt → Better Response
 
 🧠 **Example**:<br>
-**Prompt** 1: "Write a short story about a cat."<br>
-**Response**: “The cat napped.”<br>
-**Refined** **Prompt** 2: “Write a funny story about an adventurous cat who steals a fish and escapes a dog.”<br>
+           **Prompt** 1: "Write a short story about a cat."<br>
+           **Response**: “The cat napped.”<br>
+           **Refined** **Prompt** 2: “Write a funny story about an adventurous cat who steals a fish and escapes a dog.”<br>
 <br><br>
 ## 🟥 **Module 6: Ethical Use & Best Practices**
 🔹 **AI Is Powerful — Use It Responsibly**<br>
 AI can make mistakes (hallucinate)
 
-Don’t share personal/confidential data<br>
-Be aware of biases in answers<br>
-Always verify facts<br>
+           Don’t share personal/confidential data<br>
+           Be aware of biases in answers<br>
+           Always verify facts<br>
 
            ⚠️ DOs & DON’Ts<br>
            ✅ Ask neutral, respectful questions<br>
@@ -107,7 +107,7 @@ Practice daily (use AI for your real-life tasks)
            Follow prompt engineering communities (Reddit, LinkedIn)
            Teach others – it reinforces your own understanding
 <br>
-🧩 Summary Diagram
+🧩 **Summary** **Diagram**
 
            👤 YOU (User) 
            📝 Prompt (Instruction)
@@ -117,5 +117,5 @@ Practice daily (use AI for your real-life tasks)
            🎯 Better Results!
 
 <br><br>
-📝 Final Thought:<br>
+📝 **Final** **Thought**:<br>
 Learning prompt engineering is like learning a new language — the language of AI. The more clearly and creatively you "speak," the better the AI "understands."
