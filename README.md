@@ -1,26 +1,31 @@
 # 🧠 What Is This Course About?
-This course teaches you how to communicate effectively with AI (like ChatGPT, Gemini, Claude) using something called prompt engineering.
-It’s not about coding — it’s about learning how to ask smart questions and give clear instructions to get the best answers from AI tools.
+This course teaches you how to **communicate effectively with AI** (like ChatGPT, Gemini, Claude) using 
+something called prompt engineering.
+It’s not about coding — it’s about learning how to **ask smart questions and give clear instructions** to get 
+the best answers from AI tools.
 
 # 📚 MODULE-WISE BREAKDOWN & EXPLANATION
-### 🟦 Module 1: Welcome to the AI Conversation
+
+## 🟦 Module 1: Welcome to the AI Conversation
+<br>
 **🔹 What is AI?**
-AI (Artificial Intelligence) in this course refers to text-based tools (called LLMs – Large Language Models) that understand and generate human-like text.
+AI (Artificial Intelligence) in this course refers to **text-based tools** (called LLMs – Large Language Models) 
+that understand and generate human-like text.
 
-🧠 Think of AI as a super-smart assistant. It has read a LOT — books, articles, websites — and gives answers based on that.
-</br>
+           🧠 **Think of AI as a super-smart assistant.** It has read a LOT — books, articles, websites — and gives 
+           answers based on that.
+
 **🔹 What Is a Prompt?**
-A prompt is the message or instruction you type to tell the AI what to do.
+A **prompt** is the message or instruction you type to tell the AI what to do.
 
-📌 **Analogy**: Talking to AI is like talking to an assistant. Instead of saying “Help me,” say:
-"Help me write an email for a job application."
-</br>
+           📌 **Analogy**: Talking to AI is like talking to an assistant. Instead of saying “Help me,” say:
+           "Help me write an email for a job application."
+
 **🔹 Why Prompt Engineering?**
-It’s about crafting smart, specific prompts to get useful, accurate answers — not vague or random ones.
-
-❌ "Tell me about cars." (Too broad)
-✅ "List 3 key differences between electric and gas cars for beginners." (Clear, specific)
-</br>
+It’s about **crafting smart, specific prompts** to get useful, accurate answers — not vague or random ones.
+           ❌ "Tell me about cars." (Too broad)
+           ✅ "List 3 key differences between electric and gas cars for beginners." (Clear, specific)
+<br><br>
 ## 🟨 Module 2: The Foundation of Great Prompts – Clarity
 🔹 **Why Clarity Is Important**
 AI, like a human, gets confused with vague requests. If your prompt is unclear, the answer may not help.
