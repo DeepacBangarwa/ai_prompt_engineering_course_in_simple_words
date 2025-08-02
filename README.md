@@ -109,7 +109,12 @@ Practice daily (use AI for your real-life tasks)
 <br>
 ### 🧩 Summary Diagram (Text Form)
 
-           👤 YOU (User) -> 📝 Prompt (Instruction) ->  🤖 AI -> 📬 Response (Output) -> 🔁 Refine Prompt (If Needed) -> 🎯 Better Results!
+           👤 YOU (User) <br> 
+           📝 Prompt (Instruction) <br>  
+           🤖 AI <br> 
+           📬 Response (Output) <br> 
+           🔁 Refine Prompt (If Needed) <br> 
+           🎯 Better Results!<br>
 
 <br><br>
 📝 Final Thought:<br>
