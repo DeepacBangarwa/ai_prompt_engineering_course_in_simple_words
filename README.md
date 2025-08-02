@@ -107,7 +107,7 @@ Practice daily (use AI for your real-life tasks)
            Follow prompt engineering communities (Reddit, LinkedIn)
            Teach others – it reinforces your own understanding
 <br>
-🧩 Summary Diagram (Text Form)
+🧩 Summary Diagram
 
            👤 YOU (User) 
            📝 Prompt (Instruction)
