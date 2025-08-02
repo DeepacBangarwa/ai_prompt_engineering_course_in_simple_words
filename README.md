@@ -45,14 +45,14 @@ Include daily schedule and dinner spots."
 <br><br>
 ## 🟧 Module 3: Instructions and Constraints
 🔹 **What Are Constraints?**<br>
-           Rules or limits you set for AI in your prompt:<br>
-           Word count: "Explain in under 50 words"<br>
-           Format: "Give output in a table"<br>
-           Tone: "Make it friendly"<br>
-           Role: "Act like a travel agent"<br>
-           Exclude things: "Don’t mention nuts"<br>
+           **Rules or limits** you set for AI in your prompt:<br>
+           **Word count**: "Explain in under 50 words"<br>
+           **Format**: "Give output in a table"<br>
+           **Tone**: "Make it friendly"<br>
+           **Role**: "Act like a travel agent"<br>
+           **Exclude** **things**: "Don’t mention nuts"<br>
 
-📌 Example:<br>
+📌 **Example**:<br>
            “Act as a fitness coach. Suggest 3 high-protein vegetarian meals. Present in bullet format. Under 100 words.”
 <br><br>
 ## 🟪 Module 4: The Power of Examples (Few-Shot Prompting)
