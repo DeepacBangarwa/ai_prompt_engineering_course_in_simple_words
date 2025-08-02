@@ -59,8 +59,8 @@ Include daily schedule and dinner spots."
 🔹 **Why Use Examples?**<br>
 Showing the AI an example helps it understand exactly what you want.
 
-📌 Example Prompt Structure:<br>
-           Instruction: Rewrite the sentence to be shorter.
+📌 **Example** **Prompt** **Structure**:<br>
+           **Instruction**: Rewrite the sentence to be shorter.
            
            Input: The cat is sitting on the mat in a very relaxed way.  
            Output: The cat is resting on the mat.
@@ -78,10 +78,10 @@ You improve your prompt step-by-step based on what the AI responds with.
            🔁 Iteration Loop:
            Prompt → Response → Refine → New Prompt → Better Response
 
-🧠 Example:<br>
-Prompt 1: "Write a short story about a cat."<br>
-Response: “The cat napped.”<br>
-Refined Prompt 2: “Write a funny story about an adventurous cat who steals a fish and escapes a dog.”<br>
+🧠 **Example**:<br>
+**Prompt** 1: "Write a short story about a cat."<br>
+**Response**: “The cat napped.”<br>
+**Refined** **Prompt** 2: “Write a funny story about an adventurous cat who steals a fish and escapes a dog.”<br>
 <br><br>
 ## 🟥 **Module 6: Ethical Use & Best Practices**
 🔹 **AI Is Powerful — Use It Responsibly**<br>
