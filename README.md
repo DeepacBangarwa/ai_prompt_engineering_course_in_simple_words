@@ -32,7 +32,7 @@ not vague or random ones.<br>
 🔹 **Why Clarity Is Important**<br>
 AI, like a human, gets confused with vague requests. If your prompt is unclear, the answer may not help.
 
-❌ "Help me with my trip."
+❌ "Help me with my trip."<br>
 ✅ "Plan a 5-day Paris trip in September for a food lover and museum fan. <br>
 Include daily schedule and dinner spots."
 <br><br>
