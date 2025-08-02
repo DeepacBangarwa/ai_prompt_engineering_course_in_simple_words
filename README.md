@@ -8,7 +8,7 @@ the best answers from AI tools.
 
 ## 🟦 Module 1: Welcome to the AI Conversation
 <br>
-🔹 <b>What is AI?</b>
+**🔹 What is AI?** <\br>
 AI (Artificial Intelligence) in this course refers to **text-based tools** (called LLMs – Large Language Models) 
 that understand and generate human-like text.
 
