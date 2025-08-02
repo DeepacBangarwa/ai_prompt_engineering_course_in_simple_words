@@ -107,14 +107,14 @@ Practice daily (use AI for your real-life tasks)
            Follow prompt engineering communities (Reddit, LinkedIn)
            Teach others – it reinforces your own understanding
 <br>
-### 🧩 Summary Diagram (Text Form)
+🧩 Summary Diagram (Text Form)
 
-           👤 YOU (User) <br> 
-           📝 Prompt (Instruction) <br>  
-           🤖 AI <br> 
-           📬 Response (Output) <br> 
-           🔁 Refine Prompt (If Needed) <br> 
-           🎯 Better Results!<br>
+           👤 YOU (User) 
+           📝 Prompt (Instruction)
+           🤖 AI
+           📬 Response (Output)
+           🔁 Refine Prompt (If Needed)
+           🎯 Better Results!
 
 <br><br>
 📝 Final Thought:<br>
